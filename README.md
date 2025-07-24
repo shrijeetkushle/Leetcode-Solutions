@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
