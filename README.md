@@ -36,9 +36,9 @@
 ## String
 |  |
 | ------- |
-| [0812-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [0796-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
-| [0812-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [0796-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
