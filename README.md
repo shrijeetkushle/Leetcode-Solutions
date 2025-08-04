@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Prefix Sum
 |  |
 | ------- |
