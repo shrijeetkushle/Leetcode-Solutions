@@ -37,8 +37,13 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [1894-merge-strings-alternately](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0796-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
