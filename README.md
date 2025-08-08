@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
