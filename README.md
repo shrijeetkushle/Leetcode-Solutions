@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
