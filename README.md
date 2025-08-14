@@ -48,6 +48,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## String Matching
 |  |
 | ------- |
