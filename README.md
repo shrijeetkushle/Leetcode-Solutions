@@ -12,6 +12,7 @@
 | [0342-power-of-four](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
