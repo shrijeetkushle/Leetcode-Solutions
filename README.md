@@ -10,6 +10,7 @@
 | [0050-powx-n](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
@@ -63,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
