@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -59,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
