@@ -23,6 +23,7 @@
 | [0088-merge-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -71,6 +72,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
