@@ -22,6 +22,7 @@
 | [0027-remove-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0057-insert-interval](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -99,6 +100,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
