@@ -104,6 +104,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0867-new-21-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
