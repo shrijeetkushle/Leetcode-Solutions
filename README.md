@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0227-basic-calculator-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0867-new-21-game) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
