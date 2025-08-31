@@ -31,6 +31,7 @@
 | [0238-product-of-array-except-self](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0621-task-scheduler](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,10 +57,12 @@
 | [0056-merge-intervals](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -116,6 +120,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [1448-maximum-69-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 ## Sliding Window
 |  |
@@ -133,4 +138,8 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
