@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -28,6 +29,7 @@
 | [0088-merge-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -142,4 +144,12 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
