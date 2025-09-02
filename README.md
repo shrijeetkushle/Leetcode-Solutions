@@ -30,6 +30,7 @@
 | [0136-single-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0228-summary-ranges](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
