@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -26,6 +27,7 @@
 | [0027-remove-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
