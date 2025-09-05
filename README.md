@@ -25,6 +25,7 @@
 | [0018-4sum](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -99,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0867-new-21-game](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -125,6 +127,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0621-task-scheduler](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [1448-maximum-69-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 ## Sliding Window
