@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0204-count-primes) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
