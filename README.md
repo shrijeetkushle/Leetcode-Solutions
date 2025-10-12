@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -55,6 +56,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0867-new-21-game](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
