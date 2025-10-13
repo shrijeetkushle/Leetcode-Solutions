@@ -26,6 +26,7 @@
 | [0018-4sum](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -96,6 +97,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -104,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0867-new-21-game](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0867-new-21-game) |
@@ -150,6 +153,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -167,4 +171,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
