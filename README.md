@@ -14,6 +14,7 @@
 | [0227-basic-calculator-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0867-new-21-game](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -81,6 +82,7 @@
 | [0125-valid-palindrome](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0796-rotate-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0136-single-number](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shrijeetkushle/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Greedy
 |  |
 | ------- |
