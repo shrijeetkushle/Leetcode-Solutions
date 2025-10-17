@@ -1,17 +1,7 @@
 class Solution {
     public boolean isPowerOfFour(int n) {
-        if(n==1){
-            return true;
-        }
-        if(n<=0){
-            return false;
-        }
-        while(n%4==0){
-              n=n/4;
-            if(n==1){
-                return true;
-            }
-        }
-        return false;
+      if(n<=0) return false;
+      if((n & (n-1)) !=0) return false;
+        return (n& 0x55555555) !=0;
     }
 }
